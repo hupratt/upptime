@@ -1,22 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: hupratt # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Shop
+    url: https://shop.lapetiteportugaise.eu
+    __dangerous__disable_verify_peer: true
+  - name: LPP
+    url: https://www.lapetiteportugaise.eu/en
+    __dangerous__disable_verify_peer: true
+  - name: Pihole
+    url: https://pihole.craftstudios.eu/
+    __dangerous__disable_verify_peer: true
+  - name: Posthog
+    url: https://posthog.craftstudios.eu/setup_admin
+    __dangerous__disable_verify_peer: true
+  - name: Stream
+    url: https://live.craftstudios.eu/
+    __dangerous__disable_verify_peer: true
+  - name: Portfolio
+    url: https://www.craftstudios.eu/
+    __dangerous__disable_verify_peer: true
+  - name: Blog
+    url: https://glob.craftstudios.eu
+    __dangerous__disable_verify_peer: true
+  - name: Blog (deprecated)
+    url: https://pythonbots.craftstudios.eu/en/posts/
+    __dangerous__disable_verify_peer: true
+  - name: Coach
+    url: https://coach.craftstudios.eu/
+    __dangerous__disable_verify_peer: true
+  - name: Booking
+    url: https://rural.craftstudios.eu/en/
+    __dangerous__disable_verify_peer: true
+  - name: Mortgage Calculator
+    url: https://mortgage-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/serverless/index.html
+    __dangerous__disable_verify_peer: true
+  - name: CV
+    url: https://rihab-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/index.html
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
