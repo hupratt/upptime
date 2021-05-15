@@ -46,7 +46,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://bookshop-images-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/resources/craftstudios-logo.jpg
   name: Upptime
-  theme: ocean
+  theme: dark
   introTitle: "HTTP Monitoring"
   introMessage: "**Upptime** is the HTTP monitoring tool powered entirely by GitHub actions."
 
