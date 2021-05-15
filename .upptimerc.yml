@@ -31,7 +31,7 @@ sites:
     url: https://coach.craftstudios.eu/
     __dangerous__disable_verify_peer: true
   - name: Minio
-    url: https://minio.craftstudios.eu/
+    url: https://minio.craftstudios.eu/minio/
     __dangerous__disable_verify_peer: true
   - name: Booking
     url: https://rural.craftstudios.eu/en/
