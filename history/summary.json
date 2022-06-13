@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/shop.lapetiteportugaise.eu",
     "slug": "shop",
     "status": "up",
-    "uptime": "92.35%",
+    "uptime": "92.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.22%",
-    "uptimeYear": "92.38%",
-    "time": 1318,
-    "timeDay": 357,
-    "timeWeek": 476,
-    "timeMonth": 461,
-    "timeYear": 1356,
+    "uptimeYear": "92.66%",
+    "time": 1316,
+    "timeDay": 440,
+    "timeWeek": 444,
+    "timeMonth": 462,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2022-05-21": 581,
       "2022-05-20": 1440,
@@ -52,8 +52,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -62,18 +61,19 @@
     "icon": "https://favicons.githubusercontent.com/www.lapetiteportugaise.eu",
     "slug": "lpp",
     "status": "down",
-    "uptime": "85.61%",
+    "uptime": "85.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.38%",
+    "uptimeMonth": "3.08%",
     "uptimeYear": "85.25%",
-    "time": 1213,
-    "timeDay": 371,
-    "timeWeek": 339,
-    "timeMonth": 459,
-    "timeYear": 1239,
+    "time": 1211,
+    "timeDay": 230,
+    "timeWeek": 323,
+    "timeMonth": 445,
+    "timeYear": 1236,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 36,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -135,8 +135,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -145,7 +144,7 @@
     "icon": "https://favicons.githubusercontent.com/pihole.craftstudios.eu",
     "slug": "pihole",
     "status": "down",
-    "uptime": "27.17%",
+    "uptime": "27.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -156,7 +155,8 @@
     "timeMonth": 0,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 36,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -440,8 +440,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -450,7 +449,7 @@
     "icon": "https://favicons.githubusercontent.com/posthog.craftstudios.eu",
     "slug": "posthog",
     "status": "down",
-    "uptime": "26.98%",
+    "uptime": "26.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -461,7 +460,8 @@
     "timeMonth": 0,
     "timeYear": 3257,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 36,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -746,8 +746,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -756,7 +755,7 @@
     "icon": "https://favicons.githubusercontent.com/live.craftstudios.eu",
     "slug": "stream",
     "status": "down",
-    "uptime": "27.17%",
+    "uptime": "27.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -767,7 +766,8 @@
     "timeMonth": 0,
     "timeYear": 1716,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 36,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -1052,8 +1052,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -1062,7 +1061,7 @@
     "icon": "https://favicons.githubusercontent.com/www.craftstudios.eu",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "27.17%",
+    "uptime": "27.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1073,7 +1072,8 @@
     "timeMonth": 0,
     "timeYear": 3104,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 37,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -1358,8 +1358,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -1368,7 +1367,7 @@
     "icon": "https://favicons.githubusercontent.com/glob.craftstudios.eu",
     "slug": "blog",
     "status": "down",
-    "uptime": "26.99%",
+    "uptime": "26.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1379,7 +1378,8 @@
     "timeMonth": 0,
     "timeYear": 3426,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 37,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -1664,8 +1664,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -1674,7 +1673,7 @@
     "icon": "https://favicons.githubusercontent.com/pythonbots.craftstudios.eu",
     "slug": "blog-deprecated",
     "status": "down",
-    "uptime": "26.87%",
+    "uptime": "26.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1685,7 +1684,8 @@
     "timeMonth": 0,
     "timeYear": 3284,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 37,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -1970,8 +1970,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -1980,7 +1979,7 @@
     "icon": "https://favicons.githubusercontent.com/coach.craftstudios.eu",
     "slug": "coach",
     "status": "down",
-    "uptime": "27.17%",
+    "uptime": "27.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1991,7 +1990,8 @@
     "timeMonth": 0,
     "timeYear": 1827,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 37,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -2275,8 +2275,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -2285,7 +2284,7 @@
     "icon": "https://favicons.githubusercontent.com/rural.craftstudios.eu",
     "slug": "booking",
     "status": "down",
-    "uptime": "27.18%",
+    "uptime": "27.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2296,7 +2295,8 @@
     "timeMonth": 0,
     "timeYear": 1243,
     "dailyMinutesDown": {
-      "2022-06-12": 33,
+      "2022-06-13": 37,
+      "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
@@ -2580,8 +2580,7 @@
       "2021-06-17": 1440,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
-      "2021-06-14": 1440,
-      "2021-06-13": 1440
+      "2021-06-14": 1440
     }
   },
   {
@@ -2596,10 +2595,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
-    "timeDay": 788,
-    "timeWeek": 1078,
-    "timeMonth": 1021,
-    "timeYear": 909,
+    "timeDay": 915,
+    "timeWeek": 1023,
+    "timeMonth": 1025,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -2614,9 +2613,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
-    "timeDay": 462,
-    "timeWeek": 571,
-    "timeMonth": 540,
+    "timeDay": 513,
+    "timeWeek": 547,
+    "timeMonth": 543,
     "timeYear": 488,
     "dailyMinutesDown": {}
   }
