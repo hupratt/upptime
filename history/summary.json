@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/shop.lapetiteportugaise.eu",
     "slug": "shop",
     "status": "up",
-    "uptime": "93.67%",
+    "uptime": "93.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.12%",
     "time": 1177,
-    "timeDay": 563,
-    "timeWeek": 427,
-    "timeMonth": 453,
-    "timeYear": 1020,
+    "timeDay": 534,
+    "timeWeek": 457,
+    "timeMonth": 454,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2022-05-21": 581,
       "2022-05-20": 1440,
@@ -33,8 +33,7 @@
       "2021-11-21": 1317,
       "2021-11-07": 44,
       "2021-09-19": 1053,
-      "2021-09-18": 1001,
-      "2021-09-03": 72
+      "2021-09-18": 1001
     }
   },
   {
@@ -43,18 +42,19 @@
     "icon": "https://favicons.githubusercontent.com/www.lapetiteportugaise.eu",
     "slug": "lpp",
     "status": "down",
-    "uptime": "70.83%",
+    "uptime": "70.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.51%",
-    "time": 1072,
-    "timeDay": 604,
-    "timeWeek": 360,
-    "timeMonth": 359,
-    "timeYear": 969,
+    "uptimeYear": "67.24%",
+    "time": 1071,
+    "timeDay": 458,
+    "timeWeek": 381,
+    "timeMonth": 362,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -180,8 +180,7 @@
       "2021-11-07": 25,
       "2021-09-19": 388,
       "2021-09-18": 1440,
-      "2021-09-17": 619,
-      "2021-09-03": 72
+      "2021-09-17": 619
     }
   },
   {
@@ -190,18 +189,19 @@
     "icon": "https://favicons.githubusercontent.com/pihole.craftstudios.eu",
     "slug": "pihole",
     "status": "down",
-    "uptime": "22.48%",
+    "uptime": "22.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.45%",
+    "uptimeYear": "4.17%",
     "time": 866,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 852,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -550,8 +550,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 999,
-      "2021-09-03": 71
+      "2021-09-18": 999
     }
   },
   {
@@ -560,18 +559,19 @@
     "icon": "https://favicons.githubusercontent.com/posthog.craftstudios.eu",
     "slug": "posthog",
     "status": "down",
-    "uptime": "22.33%",
+    "uptime": "22.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.25%",
+    "uptimeYear": "3.97%",
     "time": 2840,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3161,
+    "timeYear": 3132,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -921,8 +921,7 @@
       "2021-09-20": 1440,
       "2021-09-19": 1440,
       "2021-09-18": 1440,
-      "2021-09-17": 619,
-      "2021-09-03": 71
+      "2021-09-17": 619
     }
   },
   {
@@ -931,18 +930,19 @@
     "icon": "https://favicons.githubusercontent.com/live.craftstudios.eu",
     "slug": "stream",
     "status": "down",
-    "uptime": "22.48%",
+    "uptime": "22.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.45%",
+    "uptimeYear": "4.17%",
     "time": 1543,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1781,
+    "timeYear": 1806,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -1291,8 +1291,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 998,
-      "2021-09-03": 70
+      "2021-09-18": 998
     }
   },
   {
@@ -1301,18 +1300,19 @@
     "icon": "https://favicons.githubusercontent.com/www.craftstudios.eu",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "22.48%",
+    "uptime": "22.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.45%",
+    "uptimeYear": "4.17%",
     "time": 2813,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2899,
+    "timeYear": 2909,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -1661,8 +1661,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 998,
-      "2021-09-03": 70
+      "2021-09-18": 998
     }
   },
   {
@@ -1671,18 +1670,19 @@
     "icon": "https://favicons.githubusercontent.com/glob.craftstudios.eu",
     "slug": "blog",
     "status": "down",
-    "uptime": "22.33%",
+    "uptime": "22.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.25%",
+    "uptimeYear": "3.97%",
     "time": 3026,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3354,
+    "timeYear": 3358,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -2032,8 +2032,7 @@
       "2021-09-20": 1440,
       "2021-09-19": 1440,
       "2021-09-18": 1440,
-      "2021-09-17": 619,
-      "2021-09-03": 70
+      "2021-09-17": 619
     }
   },
   {
@@ -2042,18 +2041,19 @@
     "icon": "https://favicons.githubusercontent.com/pythonbots.craftstudios.eu",
     "slug": "blog-deprecated",
     "status": "down",
-    "uptime": "22.23%",
+    "uptime": "22.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.25%",
+    "uptimeYear": "3.97%",
     "time": 2930,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3075,
+    "timeYear": 3028,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -2403,8 +2403,7 @@
       "2021-09-20": 1440,
       "2021-09-19": 1440,
       "2021-09-18": 1440,
-      "2021-09-17": 619,
-      "2021-09-03": 69
+      "2021-09-17": 619
     }
   },
   {
@@ -2413,18 +2412,19 @@
     "icon": "https://favicons.githubusercontent.com/coach.craftstudios.eu",
     "slug": "coach",
     "status": "down",
-    "uptime": "22.48%",
+    "uptime": "22.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.45%",
+    "uptimeYear": "4.17%",
     "time": 1627,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1754,
+    "timeYear": 1761,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -2773,8 +2773,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 996,
-      "2021-09-03": 69
+      "2021-09-18": 996
     }
   },
   {
@@ -2783,18 +2782,19 @@
     "icon": "https://favicons.githubusercontent.com/rural.craftstudios.eu",
     "slug": "booking",
     "status": "down",
-    "uptime": "22.48%",
+    "uptime": "22.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.45%",
+    "uptimeYear": "4.17%",
     "time": 1120,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 857,
+    "timeYear": 889,
     "dailyMinutesDown": {
-      "2022-09-02": 36,
+      "2022-09-03": 34,
+      "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -3143,8 +3143,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 996,
-      "2021-09-03": 68
+      "2021-09-18": 996
     }
   },
   {
@@ -3158,11 +3157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 992,
-    "timeWeek": 878,
-    "timeMonth": 993,
-    "timeYear": 920,
+    "time": 921,
+    "timeDay": 1251,
+    "timeWeek": 953,
+    "timeMonth": 997,
+    "timeYear": 921,
     "dailyMinutesDown": {}
   },
   {
@@ -3177,10 +3176,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 550,
-    "timeWeek": 489,
-    "timeMonth": 574,
-    "timeYear": 497,
+    "timeDay": 649,
+    "timeWeek": 528,
+    "timeMonth": 575,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   }
 ]
