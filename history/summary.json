@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.lapetiteportugaise.eu.ico",
     "slug": "shop",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
     "time": 1104,
-    "timeDay": 434,
-    "timeWeek": 462,
-    "timeMonth": 476,
-    "timeYear": 926,
+    "timeDay": 538,
+    "timeWeek": 476,
+    "timeMonth": 482,
+    "timeYear": 925,
     "dailyMinutesDown": {
       "2022-05-21": 581,
       "2022-05-20": 1440,
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lapetiteportugaise.eu.ico",
     "slug": "lpp",
     "status": "down",
-    "uptime": "64.58%",
+    "uptime": "64.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.39%",
-    "time": 1019,
-    "timeDay": 633,
-    "timeWeek": 553,
-    "timeMonth": 549,
-    "timeYear": 887,
+    "uptimeYear": "55.11%",
+    "time": 1016,
+    "timeDay": 685,
+    "timeWeek": 561,
+    "timeMonth": 556,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -229,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pihole.craftstudios.eu.ico",
     "slug": "pihole",
     "status": "down",
-    "uptime": "20.50%",
+    "uptime": "20.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -240,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -603,8 +605,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -613,7 +614,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/posthog.craftstudios.eu.ico",
     "slug": "posthog",
     "status": "down",
-    "uptime": "20.35%",
+    "uptime": "20.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -624,7 +625,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -987,8 +989,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -997,7 +998,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.craftstudios.eu.ico",
     "slug": "stream",
     "status": "down",
-    "uptime": "20.49%",
+    "uptime": "20.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1008,7 +1009,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -1371,8 +1373,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -1381,7 +1382,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.craftstudios.eu.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "20.49%",
+    "uptime": "20.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1392,7 +1393,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -1755,8 +1757,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -1765,7 +1766,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/glob.craftstudios.eu.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "20.36%",
+    "uptime": "20.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1776,7 +1777,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -2139,8 +2141,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -2149,7 +2150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pythonbots.craftstudios.eu.ico",
     "slug": "blog-deprecated",
     "status": "down",
-    "uptime": "20.27%",
+    "uptime": "20.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2160,7 +2161,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -2523,8 +2525,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -2533,7 +2534,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coach.craftstudios.eu.ico",
     "slug": "coach",
     "status": "down",
-    "uptime": "20.50%",
+    "uptime": "20.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2544,7 +2545,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -2907,8 +2909,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -2917,7 +2918,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rural.craftstudios.eu.ico",
     "slug": "booking",
     "status": "down",
-    "uptime": "20.50%",
+    "uptime": "20.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2928,7 +2929,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 49,
+      "2022-10-19": 51,
+      "2022-10-18": 1440,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
@@ -3291,8 +3293,7 @@
       "2021-10-23": 1440,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
-      "2021-10-20": 1440,
-      "2021-10-19": 1440
+      "2021-10-20": 1440
     }
   },
   {
@@ -3306,10 +3307,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 932,
-    "timeDay": 1014,
-    "timeWeek": 1082,
-    "timeMonth": 1051,
+    "time": 933,
+    "timeDay": 1325,
+    "timeWeek": 1121,
+    "timeMonth": 1071,
     "timeYear": 938,
     "dailyMinutesDown": {}
   },
@@ -3325,9 +3326,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 540,
-    "timeWeek": 656,
-    "timeMonth": 579,
+    "timeDay": 662,
+    "timeWeek": 670,
+    "timeMonth": 588,
     "timeYear": 509,
     "dailyMinutesDown": {}
   }
