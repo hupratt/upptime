@@ -21,9 +21,8 @@ sites:
   - name: Coach
     url: https://coach.craftstudios.shop/
     __dangerous__disable_verify_peer: true
-  # - name: Minio
-  #   url: https://minio.craftstudios.eu/minio/
-  #   __dangerous__disable_verify_peer: true
+  - name: Dropbox
+    url: http://213.211.155.233/index.html
   - name: Booking
     url: https://rural.craftstudios.eu/en/
     __dangerous__disable_verify_peer: true
