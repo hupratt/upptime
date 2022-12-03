@@ -28,7 +28,7 @@ sites:
     url: https://pythonbots.craftstudios.eu/en/posts/
     __dangerous__disable_verify_peer: true
   - name: Coach
-    url: https://coach.craftstudios.eu/
+    url: https://coach.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   # - name: Minio
   #   url: https://minio.craftstudios.eu/minio/
@@ -40,7 +40,7 @@ sites:
     url: https://mortgage-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/serverless/index.html
     __dangerous__disable_verify_peer: true
   - name: CV
-    url: https://rihab-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/index.html
+    url: https://rihab2-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
     __dangerous__disable_verify_peer: true
 
 status-website:
