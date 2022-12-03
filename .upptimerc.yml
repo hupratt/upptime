@@ -34,7 +34,7 @@ sites:
     url: https://rural.craftstudios.eu/en/
     __dangerous__disable_verify_peer: true
   - name: Mortgage Calculator
-    url: mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb25/serverless/index.html
+    url: https://mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/serverless/index.html
     __dangerous__disable_verify_peer: true
   - name: CV
     url: https://rihab2-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
