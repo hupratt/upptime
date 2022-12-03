@@ -6,9 +6,6 @@ sites:
   - name: Shop
     url: https://shop.lapetiteportugaise.eu
     __dangerous__disable_verify_peer: true
-  - name: LPP
-    url: https://www.lapetiteportugaise.eu/en
-    __dangerous__disable_verify_peer: true
   - name: Pihole
     url: https://pihole.craftstudios.eu/
     __dangerous__disable_verify_peer: true
@@ -37,7 +34,7 @@ sites:
     url: https://rural.craftstudios.eu/en/
     __dangerous__disable_verify_peer: true
   - name: Mortgage Calculator
-    url: https://mortgage-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/serverless/index.html
+    url: mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb25/serverless/index.html
     __dangerous__disable_verify_peer: true
   - name: CV
     url: https://rihab2-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
