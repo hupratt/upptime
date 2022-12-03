@@ -18,9 +18,6 @@ sites:
   - name: Blog
     url: https://blog.craftstudios.shop/
     __dangerous__disable_verify_peer: true
-  - name: Blog (deprecated)
-    url: https://pythonbots.craftstudios.eu/en/posts/
-    __dangerous__disable_verify_peer: true
   - name: Coach
     url: https://coach.craftstudios.shop/
     __dangerous__disable_verify_peer: true
