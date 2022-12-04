@@ -15,6 +15,9 @@ sites:
   - name: Portfolio
     url: https://portfolio.craftstudios.shop/
     __dangerous__disable_verify_peer: true
+  - name: www
+    url: https://www.craftstudios.shop/
+    __dangerous__disable_verify_peer: true
   - name: Blog
     url: https://blog.craftstudios.shop/
     __dangerous__disable_verify_peer: true
