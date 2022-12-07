@@ -10,7 +10,7 @@ sites:
     url: https://posthog.craftstudios.shop/setup_admin
     __dangerous__disable_verify_peer: true
   - name: Stream
-    url: https://live.craftstudios.eu/
+    url: https://live.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
     url: https://portfolio.craftstudios.shop/
