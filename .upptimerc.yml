@@ -9,8 +9,11 @@ sites:
   - name: Posthog
     url: https://posthog.craftstudios.shop/setup_admin
     __dangerous__disable_verify_peer: true
-  - name: Stream
+  - name: Stream HLS encoding (slow)
     url: https://live.craftstudios.shop/
+    __dangerous__disable_verify_peer: true
+  - name: WebRTC encoding (fast)
+    url: https://rtc.craftstudios.shop/en/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
     url: https://portfolio.craftstudios.shop/
@@ -33,7 +36,7 @@ sites:
   - name: CV
     url: https://rihab2-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
     __dangerous__disable_verify_peer: true
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
