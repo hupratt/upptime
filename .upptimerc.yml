@@ -30,6 +30,9 @@ sites:
   - name: Booking
     url: https://booking.craftstudios.shop/en/
     __dangerous__disable_verify_peer: true
+  - name: Makita
+    url: https://makita.craftstudios.shop/
+    __dangerous__disable_verify_peer: true
   - name: Mortgage Calculator
     url: https://mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/serverless/index.html
     __dangerous__disable_verify_peer: true
