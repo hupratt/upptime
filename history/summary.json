@@ -1657,18 +1657,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bill.craftstudios.shop.ico",
     "slug": "split-a-bill",
     "status": "down",
-    "uptime": "10.45%",
-    "uptimeDay": "10.45%",
-    "uptimeWeek": "10.45%",
-    "uptimeMonth": "10.45%",
-    "uptimeYear": "10.45%",
+    "uptime": "5.63%",
+    "uptimeDay": "5.63%",
+    "uptimeWeek": "5.63%",
+    "uptimeMonth": "5.63%",
+    "uptimeYear": "5.63%",
     "time": 506,
     "timeDay": 506,
     "timeWeek": 506,
     "timeMonth": 506,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2023-02-21": 0
+      "2023-02-21": 1
     }
   },
   {
