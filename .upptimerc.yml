@@ -33,7 +33,7 @@ sites:
   - name: Makita
     url: https://makita.craftstudios.shop/
     __dangerous__disable_verify_peer: true
-   - name: Split a bill
+  - name: Split a bill
     url: https://bill.craftstudios.shop/
     __dangerous__disable_verify_peer: true   
   - name: Mortgage Calculator
@@ -42,7 +42,10 @@ sites:
   - name: CV
     url: https://rihab2-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
     __dangerous__disable_verify_peer: true
-    
+  - name: netchicks
+    url: https://netchicks-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
+    __dangerous__disable_verify_peer: true
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
