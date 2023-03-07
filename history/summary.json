@@ -1720,18 +1720,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trello.craftstudios.shop.ico",
     "slug": "trello",
     "status": "down",
-    "uptime": "5.76%",
-    "uptimeDay": "5.76%",
-    "uptimeWeek": "5.76%",
-    "uptimeMonth": "5.76%",
-    "uptimeYear": "5.76%",
+    "uptime": "2.63%",
+    "uptimeDay": "2.63%",
+    "uptimeWeek": "2.63%",
+    "uptimeMonth": "2.63%",
+    "uptimeYear": "2.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-07": 0
+      "2023-03-07": 1
     }
   }
 ]
