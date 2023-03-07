@@ -48,7 +48,10 @@ sites:
   - name: youtubeclone
     url: https://youtube.craftstudios.shop/
     __dangerous__disable_verify_peer: true
-
+  - name: bitwarden
+    url: https://bitwarden.craftstudios.shop/
+    __dangerous__disable_verify_peer: true
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
