@@ -54,6 +54,9 @@ sites:
   - name: trello
     url: https://trello.craftstudios.shop/
     __dangerous__disable_verify_peer: true
+  - name: retro
+    url: https://retro.craftstudios.shop/
+    __dangerous__disable_verify_peer: true
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
