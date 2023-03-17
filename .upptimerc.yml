@@ -6,6 +6,9 @@ sites:
   - name: trello
     url: https://trello.craftstudios.shop/
     __dangerous__disable_verify_peer: true
+  - name: mealie
+    url: https://mealie.craftstudios.shop/
+    __dangerous__disable_verify_peer: true
   - name: recipes
     url: https://recipes.craftstudios.shop/
     __dangerous__disable_verify_peer: true
