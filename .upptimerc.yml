@@ -64,7 +64,7 @@ sites:
     url: https://shop.lapetiteportugaise.eu
     __dangerous__disable_verify_peer: true
   - name: spotify
-    url: https://spotify.lapetiteportugaise.eu
+    url: https://spotify.craftstudios.shop
     __dangerous__disable_verify_peer: true
     
 status-website:
