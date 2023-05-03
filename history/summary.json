@@ -6,8 +6,8 @@
     "slug": "trello",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 550,
@@ -16,7 +16,7 @@
     "timeMonth": 560,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2023-05-03": 1,
+      "2023-05-03": 2,
       "2023-03-12": 17,
       "2023-03-09": 17,
       "2023-03-07": 22
