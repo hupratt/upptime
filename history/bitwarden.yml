@@ -1,7 +1,7 @@
 url: http://bitwarden.craftstudios.shop/
-status: down
-code: 400
-responseTime: 608
-lastUpdated: 2023-08-17T17:57:54.098Z
+status: up
+code: 200
+responseTime: 698
+lastUpdated: 2023-08-17T20:40:11.317Z
 startTime: Tue Mar 07 2023 10:28:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
