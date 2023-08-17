@@ -10,40 +10,40 @@ sites:
     url: http://chirpy.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: mealie
-    url: https://mealie.craftstudios.shop/
+    url: http://mealie.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: recipes
-    url: https://recipes.craftstudios.shop/
+    url: http://recipes.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Posthog
-    url: https://posthog.craftstudios.shop/setup_admin
+    url: http://posthog.craftstudios.shop/setup_admin
     __dangerous__disable_verify_peer: true
   - name: Stream HLS encoding (slow)
-    url: https://live.craftstudios.shop/
+    url: http://live.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: WebRTC encoding (fast)
-    url: https://rtc.craftstudios.shop/
+    url: http://rtc.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
-    url: https://portfolio.craftstudios.shop/
+    url: http://portfolio.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: www
     url: https://www.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Blog
-    url: https://blog.craftstudios.shop/
+    url: http://blog.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Coach
-    url: https://coach.craftstudios.shop/
+    url: http://coach.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Booking
-    url: https://booking.craftstudios.shop/en/
+    url: http://booking.craftstudios.shop/en/
     __dangerous__disable_verify_peer: true
   - name: Makita
-    url: https://makita.craftstudios.shop/
+    url: http://makita.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Split a bill
-    url: https://bill.craftstudios.shop/
+    url: http://bill.craftstudios.shop/
     __dangerous__disable_verify_peer: true   
   - name: Mortgage Calculator
     url: https://mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb25.s3.eu-west-2.amazonaws.com/serverless/index.html
@@ -55,19 +55,19 @@ sites:
     url: https://netchicks-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-west-2.amazonaws.com/index.html
     __dangerous__disable_verify_peer: true
   - name: youtubeclone
-    url: https://youtube.craftstudios.shop/
+    url: http://youtube.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: bitwarden
-    url: https://bitwarden.craftstudios.shop/
+    url: http://bitwarden.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: retro
-    url: https://retro.craftstudios.shop/
+    url: http://retro.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: shop
-    url: https://shop.lapetiteportugaise.eu
+    url: http://shop.lapetiteportugaise.eu
     __dangerous__disable_verify_peer: true
   - name: spotify
-    url: https://spotify.craftstudios.shop
+    url: http://spotify.craftstudios.shop
     __dangerous__disable_verify_peer: true
     
 status-website:
