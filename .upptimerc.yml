@@ -4,43 +4,43 @@ repo: upptime # The name of this repository
 
 sites:
   - name: trello
-    url: http://trello.craftstudios.shop/
+    url: https://trello.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: chirpy
-    url: http://chirpy.craftstudios.shop/
+    url: https://chirpy.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: mealie
-    url: http://mealie.craftstudios.shop/
+    url: https://mealie.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: recipes
-    url: http://recipes.craftstudios.shop/
+    url: https://recipes.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Posthog
-    url: http://posthog.craftstudios.shop/setup_admin
+    url: https://posthog.craftstudios.shop/setup_admin
     __dangerous__disable_verify_peer: true
   - name: Stream HLS encoding (slow)
-    url: http://live.craftstudios.shop/
+    url: https://live.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: WebRTC encoding (fast)
-    url: http://rtc.craftstudios.shop/
+    url: https://rtc.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
     url: https://www.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Blog
-    url: http://blog.craftstudios.shop/
+    url: https://blog.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Coach
-    url: http://coach.craftstudios.shop/
+    url: https://coach.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Booking
-    url: http://booking.craftstudios.shop/en/
+    url: https://booking.craftstudios.shop/en/
     __dangerous__disable_verify_peer: true
   - name: Makita
-    url: http://makita.craftstudios.shop/
+    url: https://makita.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Split a bill
-    url: http://bill.craftstudios.shop/
+    url: https://bill.craftstudios.shop/
     __dangerous__disable_verify_peer: true   
   - name: Mortgage Calculator
     url: https://mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27.s3.eu-north-1.amazonaws.com/index.html
@@ -52,19 +52,19 @@ sites:
     url: https://netchicks-f1492f08-f236-4a55-afb7-70ded209cb27.s3.eu-north-1.amazonaws.com/Netchicks/index.html
     __dangerous__disable_verify_peer: true
   - name: youtubeclone
-    url: http://youtube.craftstudios.shop/
+    url: https://youtube.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: bitwarden
-    url: http://bitwarden.craftstudios.shop/
+    url: https://bitwarden.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: retro
-    url: http://retro.craftstudios.shop/
+    url: https://retro.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: shop
-    url: http://shop.lapetiteportugaise.eu
+    url: https://shop.lapetiteportugaise.eu
     __dangerous__disable_verify_peer: true
   - name: spotify
-    url: http://spotify.craftstudios.shop
+    url: https://spotify.craftstudios.shop
     __dangerous__disable_verify_peer: true
     
 status-website:
