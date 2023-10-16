@@ -61,7 +61,7 @@ sites:
     url: https://retro.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: shop
-    url: https://lapetiteportugaise.bitwcmd.duckdns.org
+    url: https://lapetiteportugaise.craftstudios.shop
     __dangerous__disable_verify_peer: true
   - name: spotify
     url: https://spotify.craftstudios.shop
