@@ -25,7 +25,7 @@ sites:
     url: https://rtc.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
-    url: https://www.craftstudios.shop/
+    url: https://portfolio.craftstudios.shop
     __dangerous__disable_verify_peer: true
   - name: Blog
     url: https://blog.craftstudios.shop/
