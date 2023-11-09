@@ -7,7 +7,7 @@ sites:
     url: https://trello.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: chirpy
-    url: https://chirpy.craftstudios.shop/
+    url: https://chirpy.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: mealie
     url: https://mealie.craftstudios.shop/
@@ -28,7 +28,7 @@ sites:
     url: https://portfolio.craftstudios.shop
     __dangerous__disable_verify_peer: true
   - name: Blog
-    url: https://blog.craftstudios.shop/
+    url: https://blog.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Coach
     url: https://coach.craftstudios.shop/
@@ -37,10 +37,10 @@ sites:
     url: https://booking.craftstudios.shop/en/
     __dangerous__disable_verify_peer: true
   - name: Makita
-    url: https://makita.craftstudios.shop/
+    url: https://makita.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Split a bill
-    url: https://bill.craftstudios.shop/
+    url: https://bill.thekor.eu/
     __dangerous__disable_verify_peer: true   
   - name: Mortgage Calculator
     url: https://mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27.s3.eu-north-1.amazonaws.com/index.html
@@ -55,7 +55,7 @@ sites:
     url: https://youtube.craftstudios.shop/
     __dangerous__disable_verify_peer: true
   - name: bitwarden
-    url: https://bitwarden.craftstudios.shop/
+    url: https://bitwarden.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: retro
     url: https://retro.craftstudios.shop/
