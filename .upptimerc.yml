@@ -25,7 +25,7 @@ sites:
     url: https://rtc.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
-    url: https://portfolio.craftstudios.shop
+    url: https://portfolio.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: Blog
     url: https://blog.thekor.eu/
