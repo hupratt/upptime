@@ -16,7 +16,7 @@ sites:
     url: https://recipes.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Posthog
-    url: https://posthog.craftstudios.shop/setup_admin
+    url: https://posthog.thekor.eu/setup_admin
     __dangerous__disable_verify_peer: true
   - name: Stream HLS encoding (slow)
     url: https://live.craftstudios.shop/
