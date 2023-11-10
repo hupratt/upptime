@@ -34,7 +34,7 @@ sites:
     url: https://coach.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Booking
-    url: https://booking.craftstudios.shop/en/
+    url: https://booking.thekor.eu/en/
     __dangerous__disable_verify_peer: true
   - name: Makita
     url: https://makita.thekor.eu/
