@@ -22,7 +22,7 @@ sites:
     url: https://live.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: WebRTC encoding (fast)
-    url: https://rtc.craftstudios.shop/
+    url: https://rtc.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Portfolio
     url: https://portfolio.craftstudios.shop
