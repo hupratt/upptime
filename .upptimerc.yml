@@ -13,7 +13,7 @@ sites:
     url: https://mealie.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: recipes
-    url: https://recipes.craftstudios.shop/
+    url: https://recipes.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Posthog
     url: https://posthog.craftstudios.shop/setup_admin
