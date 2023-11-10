@@ -19,7 +19,7 @@ sites:
     url: https://posthog.thekor.eu/setup_admin
     __dangerous__disable_verify_peer: true
   - name: Stream HLS encoding (slow)
-    url: https://live.craftstudios.shop/
+    url: https://live.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: WebRTC encoding (fast)
     url: https://rtc.craftstudios.shop/
