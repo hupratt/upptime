@@ -61,7 +61,7 @@ sites:
     url: https://retro.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: shop
-    url: https://lapetiteportugaise.craftstudios.shop
+    url: https://lapetiteportugaise.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: spotify
     url: https://spotifyapi.thekor.eu
