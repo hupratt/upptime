@@ -1,7 +1,7 @@
 url: https://recipes.thekor.eu/
-status: up
-code: 200
-responseTime: 4146
-lastUpdated: 2024-01-03T23:00:46.795Z
+status: down
+code: 500
+responseTime: 4448
+lastUpdated: 2024-01-04T19:24:21.744Z
 startTime: 2023-03-13T19:27:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
