@@ -69,6 +69,12 @@ sites:
   - name: homeassistant
     url: https://home.thekor.eu
     __dangerous__disable_verify_peer: true
+  - name: mail
+    url: https://mail.thekor.eu
+    __dangerous__disable_verify_peer: true
+  - name: guacamole
+    url: https://guacamole.thekor.eu
+    __dangerous__disable_verify_peer: true
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
