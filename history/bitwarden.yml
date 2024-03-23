@@ -1,7 +1,7 @@
 url: https://bitwarden.thekor.eu/
-status: down
-code: 502
-responseTime: 3414
-lastUpdated: 2024-03-23T01:18:53.431Z
+status: up
+code: 200
+responseTime: 404
+lastUpdated: 2024-03-23T09:16:04.722Z
 startTime: 2023-03-07T10:28:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
