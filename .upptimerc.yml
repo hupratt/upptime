@@ -73,7 +73,7 @@ sites:
     url: https://mail.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: guacamole
-    url: https://guacamole.thekor.eu
+    url: https://remote.thekor.eu
     __dangerous__disable_verify_peer: true
     
 status-website:
