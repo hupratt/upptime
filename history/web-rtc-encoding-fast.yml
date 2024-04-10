@@ -1,7 +1,7 @@
 url: https://rtc.thekor.eu/
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2024-04-10T16:13:16.410Z
+status: down
+code: 502
+responseTime: 3441
+lastUpdated: 2024-04-10T16:44:58.220Z
 startTime: 2022-12-11T07:15:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
