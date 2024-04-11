@@ -1,7 +1,7 @@
 url: https://makita.thekor.eu/
-status: up
-code: 200
-responseTime: 343
-lastUpdated: 2024-04-10T23:01:25.392Z
+status: down
+code: 502
+responseTime: 3429
+lastUpdated: 2024-04-11T17:03:23.993Z
 startTime: 2023-02-08T17:28:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
