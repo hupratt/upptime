@@ -1,7 +1,7 @@
 url: https://spotifyapi.thekor.eu
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-27T21:53:05.987Z
+status: up
+code: 200
+responseTime: 313
+lastUpdated: 2024-04-27T22:18:36.250Z
 startTime: 2023-03-21T19:13:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
