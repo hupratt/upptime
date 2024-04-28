@@ -38,3 +38,10 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
+      - name: notify
+        uses: craftech-io/slack-action@v1        
+        with:
+          slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
+          slack_channel: github
+          status: failure
+  #      if: failure()
