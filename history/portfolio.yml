@@ -1,7 +1,7 @@
 url: https://portfolio.thekor.eu
-status: up
-code: 200
-responseTime: 2124
-lastUpdated: 2024-05-01T10:08:33.695Z
+status: down
+code: 502
+responseTime: 591
+lastUpdated: 2024-05-01T13:42:10.713Z
 startTime: 2021-05-14T22:00:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
