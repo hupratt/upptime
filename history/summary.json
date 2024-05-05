@@ -2456,18 +2456,20 @@
     "url": "https://kibana.thekor.eu",
     "icon": "https://icons.duckduckgo.com/ip3/kibana.thekor.eu.ico",
     "slug": "kibana",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 488,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "93.36%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "93.36%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "93.36%",
+    "time": 485,
+    "timeDay": 485,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
+    "dailyMinutesDown": {
+      "2024-05-05": 1
+    }
   },
   {
     "name": "elastic",
