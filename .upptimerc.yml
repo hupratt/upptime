@@ -82,7 +82,7 @@ sites:
     url: https://kibana.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: elastic
-    url: https://elastic.thekor.eu
+    url: https://elastic.thekor.eu/_cat/health
     __dangerous__disable_verify_peer: true
     
 status-website:
