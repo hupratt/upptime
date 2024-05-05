@@ -76,7 +76,7 @@ sites:
     url: https://remote.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: kuma
-    url: https://uptime.thekor.eu
+    url: https://uptime.thekor.eu/status/cloud
     __dangerous__disable_verify_peer: true
   - name: kibana
     url: https://kibana.thekor.eu
