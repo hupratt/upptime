@@ -2162,7 +2162,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotifyapi.thekor.eu.ico",
     "slug": "spotify",
     "status": "up",
-    "uptime": "67.44%",
+    "uptime": "67.45%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "90.58%",
     "uptimeMonth": "94.50%",
@@ -2342,11 +2342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.thekor.eu.ico",
     "slug": "homeassistant",
     "status": "up",
-    "uptime": "87.74%",
+    "uptime": "87.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.82%",
     "uptimeMonth": "87.26%",
-    "uptimeYear": "87.74%",
+    "uptimeYear": "87.75%",
     "time": 1350,
     "timeDay": 510,
     "timeWeek": 475,
@@ -2409,11 +2409,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/remote.thekor.eu.ico",
     "slug": "guacamole",
     "status": "up",
-    "uptime": "78.52%",
+    "uptime": "78.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.52%",
+    "uptimeYear": "78.54%",
     "time": 460,
     "timeDay": 563,
     "timeWeek": 526,
@@ -2456,18 +2456,20 @@
     "url": "https://kibana.thekor.eu",
     "icon": "https://icons.duckduckgo.com/ip3/kibana.thekor.eu.ico",
     "slug": "kibana",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 768,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2024-05-05": 1
+    }
   },
   {
     "name": "elastic",
@@ -2486,7 +2488,7 @@
     "timeMonth": 531,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-05-05": 26
+      "2024-05-05": 80
     }
   },
   {
