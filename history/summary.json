@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/trello.thekor.eu.ico",
     "slug": "trello",
     "status": "up",
-    "uptime": "86.92%",
+    "uptime": "86.93%",
     "uptimeDay": "98.55%",
     "uptimeWeek": "90.41%",
     "uptimeMonth": "94.31%",
@@ -906,7 +906,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.thekor.eu.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "52.33%",
+    "uptime": "52.34%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "90.48%",
     "uptimeMonth": "94.65%",
@@ -1241,7 +1241,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/booking.thekor.eu.ico",
     "slug": "booking",
     "status": "up",
-    "uptime": "52.44%",
+    "uptime": "52.45%",
     "uptimeDay": "98.58%",
     "uptimeWeek": "90.51%",
     "uptimeMonth": "94.73%",
@@ -2409,11 +2409,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/remote.thekor.eu.ico",
     "slug": "guacamole",
     "status": "up",
-    "uptime": "78.54%",
+    "uptime": "78.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.54%",
+    "uptimeYear": "78.56%",
     "time": 460,
     "timeDay": 563,
     "timeWeek": 526,
@@ -2456,19 +2456,19 @@
     "url": "https://kibana.thekor.eu",
     "icon": "https://icons.duckduckgo.com/ip3/kibana.thekor.eu.ico",
     "slug": "kibana",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
-    "time": 748,
-    "timeDay": 748,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "status": "up",
+    "uptime": "75.44%",
+    "uptimeDay": "75.44%",
+    "uptimeWeek": "75.44%",
+    "uptimeMonth": "75.44%",
+    "uptimeYear": "75.44%",
+    "time": 750,
+    "timeDay": 750,
+    "timeWeek": 750,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2024-05-05": 1
+      "2024-05-05": 42
     }
   },
   {
@@ -2488,7 +2488,7 @@
     "timeMonth": 531,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-05-05": 80
+      "2024-05-05": 122
     }
   },
   {
