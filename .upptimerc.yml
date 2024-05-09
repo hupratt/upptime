@@ -87,7 +87,10 @@ sites:
   - name: kuma hz
     url: https://uptime-hz.thekor.eu/status/cloud-hz
     __dangerous__disable_verify_peer: true
-
+  - name: minio
+    url: https://minio.thekor.eu
+    __dangerous__disable_verify_peer: true
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
