@@ -43,7 +43,7 @@ sites:
     url: https://bill.thekor.eu/
     __dangerous__disable_verify_peer: true   
   - name: Mortgage Calculator
-    url: https://mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27.s3.eu-north-1.amazonaws.com/index.html
+    url: https://minio-api.thekor.eu/mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27/index.html
     __dangerous__disable_verify_peer: true
   - name: CV
     url: https://rihab-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-north-1.amazonaws.com/rihab-CV/index.html
