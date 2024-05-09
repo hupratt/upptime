@@ -1,7 +1,7 @@
-url: https://rihab-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-north-1.amazonaws.com/rihab-CV/index.html
+url: https://minio-api.thekor.eu/rihab-f1492f08-f236-4a55-afb7-70ded209cb24/rihab/index.html
 status: up
 code: 200
-responseTime: 405
-lastUpdated: 2024-05-09T16:58:51.570Z
+responseTime: 165
+lastUpdated: 2024-05-09T17:00:49.278Z
 startTime: 2021-05-14T22:00:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
