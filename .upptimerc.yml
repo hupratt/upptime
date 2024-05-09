@@ -49,7 +49,7 @@ sites:
     url: https://rihab-f1492f08-f236-4a55-afb7-70ded209cb24.s3.eu-north-1.amazonaws.com/rihab-CV/index.html
     __dangerous__disable_verify_peer: true
   - name: netchicks
-    url: https://netchicks-f1492f08-f236-4a55-afb7-70ded209cb27.s3.eu-north-1.amazonaws.com/Netchicks/index.html
+    url: https://minio-api.thekor.eu/netchicks-f1492f08-f236-4a55-afb7-70ded209cb27/Netchicks/index.html
     __dangerous__disable_verify_peer: true
   - name: youtubeclone
     url: https://youtube.thekor.eu/
