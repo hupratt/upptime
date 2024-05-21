@@ -90,9 +90,6 @@ sites:
   - name: minio
     url: https://minio.thekor.eu
     __dangerous__disable_verify_peer: true
-  - name: portainer
-    url: https://portainer.thekor.eu
-    __dangerous__disable_verify_peer: true
 
 
 status-website:
