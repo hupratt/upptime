@@ -1,7 +1,7 @@
 url: https://elastic.thekor.eu/.watcher*/_search?pretty
-status: down
-code: 502
-responseTime: 668
-lastUpdated: 2024-05-22T10:08:13.065Z
+status: up
+code: 200
+responseTime: 670
+lastUpdated: 2024-05-22T10:29:04.950Z
 startTime: 2024-05-05T12:19:26.186Z
 generator: Upptime <https://github.com/upptime/upptime>
