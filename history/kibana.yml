@@ -1,7 +1,7 @@
 url: https://kibana.thekor.eu
-status: down
-code: 502
-responseTime: 677
-lastUpdated: 2024-05-22T10:08:10.023Z
+status: up
+code: 200
+responseTime: 1203
+lastUpdated: 2024-05-22T10:29:01.932Z
 startTime: 2024-05-05T11:05:49.120Z
 generator: Upptime <https://github.com/upptime/upptime>
