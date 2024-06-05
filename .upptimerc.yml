@@ -55,7 +55,7 @@ sites:
     url: https://youtube.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: bitwarden
-    url: https://bitwarden.thekor.eu/
+    url: https://vault.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: retro
     url: https://retro.thekor.eu/
@@ -78,12 +78,12 @@ sites:
   - name: kuma
     url: https://uptime.thekor.eu/status/cloud
     __dangerous__disable_verify_peer: true
-  - name: kibana
-    url: https://kibana.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: elastic
-    url: https://elastic.thekor.eu/.watcher*/_search?pretty
-    __dangerous__disable_verify_peer: true
+#  - name: kibana
+#    url: https://kibana.thekor.eu
+#    __dangerous__disable_verify_peer: true
+#  - name: elastic
+#    url: https://elastic.thekor.eu/.watcher*/_search?pretty
+#    __dangerous__disable_verify_peer: true
   - name: kuma hz
     url: https://uptime-hz.thekor.eu/status/cloud-hz
     __dangerous__disable_verify_peer: true
