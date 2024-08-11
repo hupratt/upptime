@@ -1,7 +1,7 @@
 url: https://elastic.thekor.eu/.watcher*/_search?pretty
 status: down
 code: 400
-responseTime: 398
-lastUpdated: 2024-08-10T23:01:43.011Z
+responseTime: 471
+lastUpdated: 2024-08-11T23:01:20.164Z
 startTime: 2024-06-10T19:54:49.945Z
 generator: Upptime <https://github.com/upptime/upptime>
