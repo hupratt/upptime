@@ -55,7 +55,7 @@ sites:
     url: https://youtube.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: bitwarden
-    url: https://vault.thekor.eu/
+    url: https://bitwarden.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: retro
     url: https://retro.thekor.eu/
