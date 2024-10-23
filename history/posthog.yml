@@ -1,7 +1,7 @@
 url: https://posthog.thekor.eu/setup_admin
-status: down
-code: 502
-responseTime: 792
-lastUpdated: 2024-10-23T19:15:54.731Z
+status: up
+code: 200
+responseTime: 573
+lastUpdated: 2024-10-23T19:38:12.806Z
 startTime: 2021-05-14T22:00:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
