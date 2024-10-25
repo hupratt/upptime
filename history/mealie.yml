@@ -1,7 +1,7 @@
 url: https://mealie.thekor.eu/
-status: up
-code: 200
-responseTime: 763
-lastUpdated: 2024-10-24T23:07:04.867Z
+status: down
+code: 502
+responseTime: 731
+lastUpdated: 2024-10-25T19:55:43.305Z
 startTime: 2023-03-17T17:42:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
