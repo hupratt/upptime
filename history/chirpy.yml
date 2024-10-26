@@ -1,7 +1,7 @@
 url: https://chirpy.thekor.eu/
-status: up
-code: 200
-responseTime: 623
-lastUpdated: 2024-10-25T23:07:47.081Z
+status: down
+code: 502
+responseTime: 418
+lastUpdated: 2024-10-26T05:07:41.696Z
 startTime: 2023-03-27T13:23:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
