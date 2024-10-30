@@ -12,9 +12,6 @@ sites:
   - name: mealie
     url: https://mealie.thekor.eu/
     __dangerous__disable_verify_peer: true
-  - name: recipes
-    url: https://recipes.thekor.eu/
-    __dangerous__disable_verify_peer: true
   - name: Posthog
     url: https://posthog.thekor.eu/setup_admin
     __dangerous__disable_verify_peer: true
