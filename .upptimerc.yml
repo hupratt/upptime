@@ -27,9 +27,6 @@ sites:
   - name: Portfolio
     url: https://portfolio.thekor.eu
     __dangerous__disable_verify_peer: true
-  - name: Blog
-    url: https://blog.thekor.eu/
-    __dangerous__disable_verify_peer: true
   - name: Coach
     url: https://coach.thekor.eu/
     __dangerous__disable_verify_peer: true
@@ -77,12 +74,6 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: kuma
     url: https://uptime.thekor.eu/status/cloud
-    __dangerous__disable_verify_peer: true
-  - name: kibana
-    url: https://kibana.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: elastic
-    url: https://elastic.thekor.eu/.watcher*/_search?pretty
     __dangerous__disable_verify_peer: true
   - name: kuma hz
     url: https://uptime-hz.thekor.eu/status/cloud-hz
