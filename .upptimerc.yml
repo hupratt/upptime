@@ -36,9 +36,6 @@ sites:
   - name: Makita
     url: https://makita.thekor.eu/
     __dangerous__disable_verify_peer: true
-  - name: Split a bill
-    url: https://bill.thekor.eu/
-    __dangerous__disable_verify_peer: true   
   - name: Mortgage Calculator
     url: https://minio-api.thekor.eu/mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27/index.html
     __dangerous__disable_verify_peer: true
