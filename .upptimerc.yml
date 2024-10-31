@@ -55,7 +55,7 @@ sites:
     url: https://lapetiteportugaise.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: spotify
-    url: https://spotifyapi.thekor.eu
+    url: https://spotify.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: homeassistant
     url: https://home.thekor.eu
