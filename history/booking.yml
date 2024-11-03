@@ -1,7 +1,7 @@
 url: https://booking.thekor.eu/en/
-status: up
-code: 200
-responseTime: 411
-lastUpdated: 2024-11-02T23:08:42.284Z
+status: down
+code: 502
+responseTime: 454
+lastUpdated: 2024-11-03T09:40:39.772Z
 startTime: 2021-05-14T22:00:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
