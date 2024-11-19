@@ -1,7 +1,7 @@
 url: https://minio-api.thekor.eu/mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27/index.html
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2024-11-19T02:38:46.487Z
+status: down
+code: 502
+responseTime: 3460
+lastUpdated: 2024-11-19T03:46:51.806Z
 startTime: 2021-05-14T22:00:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
