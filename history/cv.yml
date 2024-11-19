@@ -1,7 +1,7 @@
 url: https://minio-api.thekor.eu/rihab-f1492f08-f236-4a55-afb7-70ded209cb24/rihab/index.html
-status: up
-code: 200
-responseTime: 100
-lastUpdated: 2024-11-19T02:38:48.939Z
+status: down
+code: 502
+responseTime: 1652
+lastUpdated: 2024-11-19T03:47:01.022Z
 startTime: 2021-05-14T22:00:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
