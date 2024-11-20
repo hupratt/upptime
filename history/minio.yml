@@ -1,7 +1,7 @@
 url: https://minio.thekor.eu
-status: down
-code: 502
-responseTime: 3744
-lastUpdated: 2024-11-20T03:55:37.361Z
+status: up
+code: 200
+responseTime: 475
+lastUpdated: 2024-11-20T04:39:53.654Z
 startTime: 2024-05-09T09:16:06.045Z
 generator: Upptime <https://github.com/upptime/upptime>
