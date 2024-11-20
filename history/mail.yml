@@ -1,7 +1,7 @@
 url: https://mail.thekor.eu
-status: up
-code: 200
-responseTime: 905
-lastUpdated: 2024-11-20T04:52:13.565Z
+status: down
+code: 502
+responseTime: 479
+lastUpdated: 2024-11-20T05:12:07.024Z
 startTime: 2024-03-20T08:00:02.562Z
 generator: Upptime <https://github.com/upptime/upptime>
