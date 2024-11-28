@@ -1,7 +1,7 @@
 url: https://uptime-hz.thekor.eu/status/cloud-hz
-status: down
-code: 502
-responseTime: 401
-lastUpdated: 2024-11-28T18:56:01.639Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2024-11-28T19:15:17.738Z
 startTime: 2024-05-05T12:19:29.275Z
 generator: Upptime <https://github.com/upptime/upptime>
