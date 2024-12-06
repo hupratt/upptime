@@ -1,7 +1,7 @@
 url: https://remote.thekor.eu
-status: up
-code: 200
-responseTime: 581
-lastUpdated: 2024-12-06T16:59:36.143Z
+status: down
+code: 502
+responseTime: 606
+lastUpdated: 2024-12-06T17:23:42.902Z
 startTime: 2024-03-20T08:00:03.875Z
 generator: Upptime <https://github.com/upptime/upptime>
