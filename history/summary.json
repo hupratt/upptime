@@ -1078,10 +1078,10 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "59.08%",
-    "uptimeWeek": "76.13%",
+    "uptimeDay": "58.96%",
+    "uptimeWeek": "76.12%",
     "uptimeMonth": "91.35%",
     "uptimeYear": "97.56%",
     "time": 652,
@@ -1090,7 +1090,7 @@
     "timeMonth": 513,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-08-13": 588,
+      "2025-08-13": 590,
       "2025-08-12": 262,
       "2025-08-11": 592,
       "2025-08-10": 66,
@@ -1122,8 +1122,7 @@
       "2024-10-27": 504,
       "2024-10-26": 22,
       "2024-10-25": 25,
-      "2024-10-10": 18,
-      "2024-10-03": 17
+      "2024-10-10": 18
     }
   },
   {
@@ -1131,19 +1130,19 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
-    "uptime": "94.58%",
-    "uptimeDay": "59.34%",
-    "uptimeWeek": "74.55%",
+    "status": "down",
+    "uptime": "94.61%",
+    "uptimeDay": "59.25%",
+    "uptimeWeek": "74.53%",
     "uptimeMonth": "90.66%",
-    "uptimeYear": "86.85%",
+    "uptimeYear": "86.93%",
     "time": 680,
     "timeDay": 436,
     "timeWeek": 434,
     "timeMonth": 449,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-08-13": 587,
+      "2025-08-13": 588,
       "2025-08-12": 302,
       "2025-08-11": 639,
       "2025-08-10": 125,
@@ -1210,9 +1209,7 @@
       "2024-09-21": 140,
       "2024-09-16": 317,
       "2024-09-15": 155,
-      "2024-08-31": 657,
-      "2024-08-30": 379,
-      "2024-08-29": 30
+      "2024-08-31": 657
     }
   },
   {
