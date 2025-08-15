@@ -992,11 +992,11 @@
     "url": "https://youtube.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/youtube.thekor.eu.ico",
     "slug": "youtubeclone",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "78.57%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "85.12%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "92.18%",
     "uptimeYear": "96.25%",
     "time": 675,
     "timeDay": 365,
@@ -1004,6 +1004,7 @@
     "timeMonth": 444,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2025-08-15": 2,
       "2025-08-14": 213,
       "2025-08-13": 541,
       "2025-08-12": 246,
@@ -1043,7 +1044,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 304
+      "2024-09-29": 283
     }
   },
   {
@@ -1051,10 +1052,10 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "79.38%",
-    "uptimeWeek": "74.35%",
+    "uptimeDay": "79.29%",
+    "uptimeWeek": "74.34%",
     "uptimeMonth": "90.63%",
     "uptimeYear": "97.68%",
     "time": 648,
@@ -1063,6 +1064,7 @@
     "timeMonth": 503,
     "timeYear": 661,
     "dailyMinutesDown": {
+      "2025-08-15": 1,
       "2025-08-14": 297,
       "2025-08-13": 605,
       "2025-08-12": 262,
@@ -1089,7 +1091,7 @@
       "2025-02-16": 27,
       "2025-02-05": 865,
       "2024-12-01": 50,
-      "2024-11-29": 42
+      "2024-11-29": 27
     }
   },
   {
@@ -1097,10 +1099,10 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "75.53%",
-    "uptimeWeek": "72.45%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "75.47%",
+    "uptimeWeek": "72.44%",
     "uptimeMonth": "89.82%",
     "uptimeYear": "97.78%",
     "time": 670,
@@ -1109,6 +1111,7 @@
     "timeMonth": 440,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2025-08-15": 1,
       "2025-08-14": 353,
       "2025-08-13": 604,
       "2025-08-12": 302,
@@ -1130,8 +1133,7 @@
       "2025-04-15": 803,
       "2025-02-14": 35,
       "2025-02-05": 865,
-      "2024-12-01": 49,
-      "2024-11-29": 27
+      "2024-12-01": 49
     }
   },
   {
