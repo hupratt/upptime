@@ -230,7 +230,7 @@
     "uptime": "95.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.14%",
+    "uptimeMonth": "89.36%",
     "uptimeYear": "86.61%",
     "time": 1078,
     "timeDay": 814,
@@ -756,7 +756,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/makita.thekor.eu.ico",
     "slug": "makita",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -929,11 +929,11 @@
     "url": "https://youtube.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/youtube.thekor.eu.ico",
     "slug": "youtubeclone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "79.75%",
-    "uptimeWeek": "80.69%",
-    "uptimeMonth": "90.97%",
+    "uptimeDay": "79.60%",
+    "uptimeWeek": "81.63%",
+    "uptimeMonth": "91.02%",
     "uptimeYear": "99.25%",
     "time": 637,
     "timeDay": 376,
@@ -941,7 +941,7 @@
     "timeMonth": 413,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2025-08-22": 70,
+      "2025-08-22": 72,
       "2025-08-21": 223,
       "2025-08-20": 388,
       "2025-08-19": 215,
@@ -955,7 +955,7 @@
       "2025-08-11": 493,
       "2025-08-10": 71,
       "2025-08-09": 408,
-      "2025-08-08": 28
+      "2025-08-08": 3
     }
   },
   {
@@ -963,19 +963,19 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "77.83%",
-    "uptimeWeek": "78.18%",
-    "uptimeMonth": "90.86%",
+    "uptimeDay": "77.71%",
+    "uptimeWeek": "79.13%",
+    "uptimeMonth": "90.90%",
     "uptimeYear": "99.24%",
-    "time": 626,
+    "time": 627,
     "timeDay": 502,
     "timeWeek": 500,
     "timeMonth": 498,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-08-22": 70,
+      "2025-08-22": 72,
       "2025-08-21": 249,
       "2025-08-20": 500,
       "2025-08-19": 247,
@@ -987,7 +987,7 @@
       "2025-08-13": 605,
       "2025-08-12": 262,
       "2025-08-11": 592,
-      "2025-08-10": 35
+      "2025-08-10": 17
     }
   },
   {
@@ -995,19 +995,19 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "72.91%",
-    "uptimeWeek": "74.46%",
-    "uptimeMonth": "90.45%",
-    "uptimeYear": "99.20%",
-    "time": 630,
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "72.82%",
+    "uptimeWeek": "75.41%",
+    "uptimeMonth": "90.65%",
+    "uptimeYear": "99.22%",
+    "time": 631,
     "timeDay": 381,
     "timeWeek": 417,
     "timeMonth": 425,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-08-22": 70,
+      "2025-08-22": 71,
       "2025-08-21": 321,
       "2025-08-20": 536,
       "2025-08-19": 291,
@@ -1018,7 +1018,7 @@
       "2025-08-14": 353,
       "2025-08-13": 604,
       "2025-08-12": 302,
-      "2025-08-11": 340
+      "2025-08-11": 251
     }
   },
   {
