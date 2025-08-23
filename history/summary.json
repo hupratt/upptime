@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/trello.thekor.eu.ico",
     "slug": "trello",
     "status": "up",
-    "uptime": "94.19%",
+    "uptime": "94.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
@@ -230,7 +230,7 @@
     "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.23%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "86.61%",
     "time": 1078,
     "timeDay": 788,
@@ -412,7 +412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rtc.thekor.eu.ico",
     "slug": "web-rtc-encoding-fast",
     "status": "up",
-    "uptime": "92.76%",
+    "uptime": "92.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -929,11 +929,11 @@
     "url": "https://youtube.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/youtube.thekor.eu.ico",
     "slug": "youtubeclone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "82.36%",
-    "uptimeMonth": "91.24%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "82.35%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "99.27%",
     "time": 632,
     "timeDay": 389,
@@ -941,7 +941,7 @@
     "timeMonth": 409,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-08-23": 101,
+      "2025-08-23": 103,
       "2025-08-22": 330,
       "2025-08-21": 223,
       "2025-08-20": 388,
@@ -954,7 +954,7 @@
       "2025-08-13": 541,
       "2025-08-12": 246,
       "2025-08-11": 493,
-      "2025-08-10": 25
+      "2025-08-10": 7
     }
   },
   {
@@ -962,11 +962,11 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "79.35%",
-    "uptimeMonth": "91.18%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "91.25%",
     "uptimeYear": "99.27%",
     "time": 623,
     "timeDay": 554,
@@ -974,7 +974,7 @@
     "timeMonth": 499,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-08-23": 142,
+      "2025-08-23": 143,
       "2025-08-22": 382,
       "2025-08-21": 249,
       "2025-08-20": 500,
@@ -985,8 +985,7 @@
       "2025-08-15": 356,
       "2025-08-14": 297,
       "2025-08-13": 605,
-      "2025-08-12": 262,
-      "2025-08-11": 32
+      "2025-08-12": 262
     }
   },
   {
@@ -994,19 +993,19 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "74.61%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "74.60%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "99.22%",
     "time": 624,
     "timeDay": 482,
     "timeWeek": 420,
     "timeMonth": 427,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-08-23": 198,
+      "2025-08-23": 199,
       "2025-08-22": 444,
       "2025-08-21": 321,
       "2025-08-20": 536,
@@ -1016,8 +1015,7 @@
       "2025-08-16": 289,
       "2025-08-15": 369,
       "2025-08-14": 353,
-      "2025-08-13": 604,
-      "2025-08-12": 22
+      "2025-08-13": 604
     }
   },
   {
