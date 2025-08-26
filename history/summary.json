@@ -70,8 +70,7 @@
       "2024-09-15": 155,
       "2024-08-31": 665,
       "2024-08-30": 378,
-      "2024-08-29": 38,
-      "2024-08-26": 1085
+      "2024-08-29": 38
     }
   },
   {
@@ -905,19 +904,20 @@
     "url": "https://youtube.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/youtube.thekor.eu.ico",
     "slug": "youtubeclone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "75.64%",
-    "uptimeWeek": "79.89%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "76.22%",
+    "uptimeWeek": "79.97%",
+    "uptimeMonth": "91.67%",
+    "uptimeYear": "99.31%",
     "time": 621,
     "timeDay": 398,
     "timeWeek": 396,
     "timeMonth": 406,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-08-25": 351,
+      "2025-08-26": 2,
+      "2025-08-25": 341,
       "2025-08-24": 342,
       "2025-08-23": 178,
       "2025-08-22": 330,
@@ -937,11 +937,11 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "72.56%",
-    "uptimeWeek": "76.57%",
-    "uptimeMonth": "91.46%",
+    "uptimeDay": "73.16%",
+    "uptimeWeek": "76.66%",
+    "uptimeMonth": "91.48%",
     "uptimeYear": "99.29%",
     "time": 617,
     "timeDay": 508,
@@ -949,7 +949,8 @@
     "timeMonth": 500,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-08-25": 396,
+      "2025-08-26": 2,
+      "2025-08-25": 386,
       "2025-08-24": 370,
       "2025-08-23": 219,
       "2025-08-22": 382,
@@ -968,11 +969,11 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "71.57%",
-    "uptimeWeek": "71.60%",
-    "uptimeMonth": "90.29%",
+    "uptimeDay": "72.17%",
+    "uptimeWeek": "71.69%",
+    "uptimeMonth": "90.31%",
     "uptimeYear": "99.19%",
     "time": 615,
     "timeDay": 424,
@@ -980,7 +981,8 @@
     "timeMonth": 425,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-08-25": 408,
+      "2025-08-26": 1,
+      "2025-08-25": 398,
       "2025-08-24": 591,
       "2025-08-23": 274,
       "2025-08-22": 444,
@@ -1115,8 +1117,7 @@
       "2024-09-15": 155,
       "2024-08-31": 657,
       "2024-08-30": 379,
-      "2024-08-29": 30,
-      "2024-08-26": 1085
+      "2024-08-29": 30
     }
   },
   {
@@ -1126,12 +1127,12 @@
     "slug": "homeassistant",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "89.38%",
+    "uptimeDay": "89.61%",
     "uptimeWeek": "91.22%",
     "uptimeMonth": "94.08%",
     "uptimeYear": "97.87%",
     "time": 612,
-    "timeDay": 473,
+    "timeDay": 486,
     "timeWeek": 470,
     "timeMonth": 502,
     "timeYear": 601,
@@ -1214,8 +1215,7 @@
       "2024-11-21": 173,
       "2024-11-20": 109,
       "2024-11-19": 121,
-      "2024-11-18": 132,
-      "2024-08-26": 1085
+      "2024-11-18": 132
     }
   },
   {
@@ -1255,8 +1255,7 @@
       "2024-11-20": 47,
       "2024-11-19": 96,
       "2024-11-18": 142,
-      "2024-11-17": 25,
-      "2024-08-26": 1085
+      "2024-11-17": 25
     }
   },
   {
