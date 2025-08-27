@@ -483,7 +483,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.thekor.eu.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "95.64%",
+    "uptime": "95.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -906,7 +906,7 @@
     "slug": "youtubeclone",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "77.70%",
+    "uptimeDay": "78.14%",
     "uptimeWeek": "79.60%",
     "uptimeMonth": "91.49%",
     "uptimeYear": "99.29%",
@@ -937,11 +937,11 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "76.47%",
-    "uptimeWeek": "76.63%",
-    "uptimeMonth": "91.47%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "76.76%",
+    "uptimeWeek": "76.62%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "99.29%",
     "time": 612,
     "timeDay": 449,
@@ -949,7 +949,7 @@
     "timeMonth": 498,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-08-27": 198,
+      "2025-08-27": 200,
       "2025-08-26": 348,
       "2025-08-25": 386,
       "2025-08-24": 370,
@@ -961,7 +961,7 @@
       "2025-08-18": 305,
       "2025-08-17": 195,
       "2025-08-16": 289,
-      "2025-08-15": 53
+      "2025-08-15": 19
     }
   },
   {
@@ -969,19 +969,19 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "71.40%",
-    "uptimeWeek": "71.35%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "71.69%",
+    "uptimeWeek": "71.34%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "99.20%",
     "time": 611,
     "timeDay": 429,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2025-08-27": 196,
+      "2025-08-27": 197,
       "2025-08-26": 436,
       "2025-08-25": 398,
       "2025-08-24": 591,
@@ -992,7 +992,7 @@
       "2025-08-19": 291,
       "2025-08-18": 490,
       "2025-08-17": 221,
-      "2025-08-16": 42
+      "2025-08-16": 23
     }
   },
   {
