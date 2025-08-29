@@ -894,19 +894,19 @@
     "url": "https://youtube.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/youtube.thekor.eu.ico",
     "slug": "youtubeclone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "81.43%",
-    "uptimeMonth": "91.83%",
+    "uptimeDay": "87.37%",
+    "uptimeWeek": "81.41%",
+    "uptimeMonth": "91.87%",
     "uptimeYear": "99.32%",
     "time": 599,
     "timeDay": 387,
-    "timeWeek": 403,
+    "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-08-29": 110,
+      "2025-08-29": 112,
       "2025-08-28": 204,
       "2025-08-27": 302,
       "2025-08-26": 330,
@@ -919,7 +919,7 @@
       "2025-08-19": 215,
       "2025-08-18": 307,
       "2025-08-17": 150,
-      "2025-08-16": 155
+      "2025-08-16": 135
     }
   },
   {
@@ -927,19 +927,19 @@
     "url": "https://bitwarden.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.thekor.eu.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "84.50%",
-    "uptimeWeek": "78.34%",
-    "uptimeMonth": "91.70%",
+    "uptimeDay": "84.40%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "91.76%",
     "uptimeYear": "99.31%",
     "time": 607,
     "timeDay": 438,
-    "timeWeek": 481,
+    "timeWeek": 480,
     "timeMonth": 492,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-08-29": 154,
+      "2025-08-29": 156,
       "2025-08-28": 279,
       "2025-08-27": 334,
       "2025-08-26": 348,
@@ -950,7 +950,7 @@
       "2025-08-21": 249,
       "2025-08-20": 500,
       "2025-08-19": 247,
-      "2025-08-18": 171
+      "2025-08-18": 141
     }
   },
   {
@@ -958,11 +958,11 @@
     "url": "https://retro.thekor.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/retro.thekor.eu.ico",
     "slug": "retro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "85.72%",
-    "uptimeWeek": "74.67%",
-    "uptimeMonth": "90.75%",
+    "uptimeDay": "85.64%",
+    "uptimeWeek": "74.66%",
+    "uptimeMonth": "90.80%",
     "uptimeYear": "99.23%",
     "time": 600,
     "timeDay": 405,
@@ -970,7 +970,7 @@
     "timeMonth": 422,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-08-29": 153,
+      "2025-08-29": 154,
       "2025-08-28": 233,
       "2025-08-27": 331,
       "2025-08-26": 436,
@@ -981,7 +981,7 @@
       "2025-08-21": 321,
       "2025-08-20": 536,
       "2025-08-19": 291,
-      "2025-08-18": 47
+      "2025-08-18": 24
     }
   },
   {
