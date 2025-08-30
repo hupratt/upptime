@@ -886,17 +886,17 @@
     "slug": "youtubeclone",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "75.19%",
-    "uptimeWeek": "79.67%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "76.09%",
+    "uptimeWeek": "79.79%",
+    "uptimeMonth": "91.62%",
+    "uptimeYear": "99.30%",
     "time": 607,
-    "timeDay": 415,
+    "timeDay": 418,
     "timeWeek": 408,
     "timeMonth": 403,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2025-08-30": 190,
+      "2025-08-30": 177,
       "2025-08-29": 228,
       "2025-08-28": 204,
       "2025-08-27": 302,
@@ -909,7 +909,7 @@
       "2025-08-20": 388,
       "2025-08-19": 215,
       "2025-08-18": 307,
-      "2025-08-17": 64
+      "2025-08-17": 102
     }
   },
   {
@@ -919,9 +919,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "73.37%",
-    "uptimeWeek": "77.25%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "74.23%",
+    "uptimeWeek": "77.38%",
+    "uptimeMonth": "91.56%",
     "uptimeYear": "99.30%",
     "time": 605,
     "timeDay": 505,
@@ -929,7 +929,7 @@
     "timeMonth": 492,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-08-30": 199,
+      "2025-08-30": 187,
       "2025-08-29": 271,
       "2025-08-28": 279,
       "2025-08-27": 334,
@@ -940,7 +940,7 @@
       "2025-08-22": 382,
       "2025-08-21": 249,
       "2025-08-20": 500,
-      "2025-08-19": 157
+      "2025-08-19": 176
     }
   },
   {
@@ -950,17 +950,17 @@
     "slug": "retro",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "73.66%",
-    "uptimeWeek": "74.28%",
-    "uptimeMonth": "90.75%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "74.49%",
+    "uptimeWeek": "74.40%",
+    "uptimeMonth": "90.69%",
+    "uptimeYear": "99.22%",
     "time": 598,
-    "timeDay": 496,
-    "timeWeek": 432,
+    "timeDay": 497,
+    "timeWeek": 427,
     "timeMonth": 425,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-08-30": 184,
+      "2025-08-30": 172,
       "2025-08-29": 282,
       "2025-08-28": 233,
       "2025-08-27": 331,
@@ -971,7 +971,7 @@
       "2025-08-22": 444,
       "2025-08-21": 321,
       "2025-08-20": 536,
-      "2025-08-19": 26
+      "2025-08-19": 64
     }
   },
   {
@@ -1105,19 +1105,19 @@
     "url": "https://home.thekor.eu",
     "icon": "https://icons.duckduckgo.com/ip3/home.thekor.eu.ico",
     "slug": "homeassistant",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "93.16%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "93.14%",
     "uptimeMonth": "93.18%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 611,
     "timeDay": 474,
     "timeWeek": 481,
     "timeMonth": 501,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-08-30": 84,
+      "2025-08-30": 86,
       "2025-08-28": 53,
       "2025-08-27": 91,
       "2025-08-26": 166,
@@ -1144,8 +1144,7 @@
       "2025-08-05": 27,
       "2025-08-04": 200,
       "2025-08-03": 35,
-      "2025-07-20": 58,
-      "2025-06-15": 80
+      "2025-07-20": 58
     }
   },
   {
