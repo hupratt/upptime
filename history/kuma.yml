@@ -1,7 +1,7 @@
 url: https://uptime.thekor.eu/status/cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-07T16:20:27.240Z
+status: up
+code: 200
+responseTime: 467
+lastUpdated: 2025-09-07T16:38:07.858Z
 startTime: 2024-05-05T11:05:48.140Z
 generator: Upptime <https://github.com/upptime/upptime>
