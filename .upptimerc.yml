@@ -45,9 +45,6 @@ sites:
   - name: youtubeclone
     url: https://youtube.thekor.eu/
     __dangerous__disable_verify_peer: true
-  - name: bitwarden
-    url: https://bitwarden.thekor.eu/
-    __dangerous__disable_verify_peer: true
   - name: retro
     url: https://retro.thekor.eu/
     __dangerous__disable_verify_peer: true
@@ -65,9 +62,6 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: guacamole
     url: https://remote.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: kuma
-    url: https://uptime.thekor.eu/status/cloud
     __dangerous__disable_verify_peer: true
   - name: minio
     url: https://minio.thekor.eu
