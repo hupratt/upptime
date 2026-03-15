@@ -9,9 +9,6 @@ sites:
   - name: chirpy
     url: https://chirpy.thekor.eu/
     __dangerous__disable_verify_peer: true
-  - name: mealie
-    url: https://mealie.thekor.eu/
-    __dangerous__disable_verify_peer: true
   - name: Posthog
     url: https://posthog.thekor.eu/setup_admin
     __dangerous__disable_verify_peer: true
@@ -23,9 +20,6 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: Portfolio
     url: https://portfolio.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: Coach
-    url: https://coach.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Booking
     url: https://booking.thekor.eu/en/
