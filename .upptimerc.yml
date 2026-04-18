@@ -3,29 +3,8 @@ owner: hupratt # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: trello
-    url: https://trello.thekor.eu/
-    __dangerous__disable_verify_peer: true
   - name: chirpy
     url: https://chirpy.thekor.eu/
-    __dangerous__disable_verify_peer: true
-  - name: Posthog
-    url: https://posthog.thekor.eu/setup_admin
-    __dangerous__disable_verify_peer: true
-  - name: Stream HLS encoding (slow)
-    url: https://live.thekor.eu/
-    __dangerous__disable_verify_peer: true
-  - name: WebRTC encoding (fast)
-    url: https://rtc.thekor.eu/
-    __dangerous__disable_verify_peer: true
-  - name: Portfolio
-    url: https://portfolio.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: Booking
-    url: https://booking.thekor.eu/en/
-    __dangerous__disable_verify_peer: true
-  - name: Makita
-    url: https://makita.thekor.eu/
     __dangerous__disable_verify_peer: true
   - name: Mortgage Calculator
     url: https://minio-api.thekor.eu/mortgage-calculator-f1492f08-f236-4a55-afb7-70ded209cb27/index.html
@@ -39,17 +18,8 @@ sites:
   - name: youtubeclone
     url: https://youtube.thekor.eu/
     __dangerous__disable_verify_peer: true
-  - name: retro
-    url: https://retro.thekor.eu/
-    __dangerous__disable_verify_peer: true
   - name: shop
     url: https://lapetiteportugaise.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: spotify
-    url: https://spotify.thekor.eu
-    __dangerous__disable_verify_peer: true
-  - name: homeassistant
-    url: https://home.thekor.eu
     __dangerous__disable_verify_peer: true
   - name: mail
     url: https://mail.thekor.eu
